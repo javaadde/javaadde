@@ -1,6 +1,5 @@
 <img src="@javaadde.png" style="width:100%;"/>
 
-<h1 align="center" style=" background:#62cfc6 ;color:#000; margin-top:-10;"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" >  I am Javad </h1>
 
 
 
