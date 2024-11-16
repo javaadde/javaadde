@@ -1,4 +1,4 @@
-<img src="@javaadde.png" style="width:100%;"/>
+<img src="@javaadde.png" style="width:100%; border-radius:15px;"/>
 
 
 
