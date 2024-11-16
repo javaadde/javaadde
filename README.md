@@ -1,29 +1,27 @@
 <img src="@javaadde.png" style="width:100%;"/>
 
-<h1 align="center" style="background:#62cfc6; color:#000; margin-top:-10;"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" >  I am Javad </h1>
-
+<h1 align="center" style=" background:#62cfc6 ;color:#000; margin-top:-10;"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" >  I am Javad </h1>
 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39E9FD&background=03030300&width=435&lines=Thaks+for+visiting)](https://git.io/typing-svg)
 
 
-
 <p>Connect with me on
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/rohit-tp/">
+<a target="_blank" href="https://www.linkedin.com/in/javad-muhammed-995a85329/">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:iamkuttappiii@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-f05a83?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/tprohit">     
+<a target="_blank" href="https://instagram.com/javaadde">     
 <img src="https://img.shields.io/badge/-Instagram-f05ace?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://rohittp0.medium.com">
+<a target="_blank" href="https://">
 <img src="https://img.shields.io/badge/Wattsapp-5fc353?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://rohittp0.medium.com">
+<a target="_blank" href="https://javaadde.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-444?style=for-the-badge&logo=GoogleChrome&logoColor=green"></img></a>
 
 
