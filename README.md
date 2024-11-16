@@ -7,8 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39E9FD&background=03030300&width=435&lines=Thaks+for+visiting)](https://git.io/typing-svg)
 
 
-<p>Connect with me on
-<br>	
+<div align="center">	
 <a target="_blank" href="https://www.linkedin.com/in/javad-muhammed-995a85329/">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
@@ -22,8 +21,9 @@
 <img src="https://img.shields.io/badge/Wattsapp-5fc353?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://javaadde.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-444?style=for-the-badge&logo=GoogleChrome&logoColor=green"></img></a>
-
+<img src="https://img.shields.io/badge/Portfolio-444?style=for-the-badge&logo=GoogleChrome&logoColor=green"></img>
+</a>
+</div>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
