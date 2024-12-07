@@ -42,10 +42,9 @@
 <h1 align="center" style="margin-top:70px;"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRqazN3ZHFxMDRhMXJ5azcxdjVwMmVvbnFsaXcwMmhkMWJvcGdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="45px"> skills <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRqazN3ZHFxMDRhMXJ5azcxdjVwMmVvbnFsaXcwMmhkMWJvcGdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="45px"></h1>
 <br/>
 
-<h2 align="center"> Languages 🌐 And ⚒ Tools </h2>
 
 
-<div align="center">
+<div align="center" width=200 >
     <img src="https://skillicons.dev/icons?i=html,css,javascript,rust,c,java,actix,github,vscode,linux,jquery,git" />
    
 </div>
