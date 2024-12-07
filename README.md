@@ -42,53 +42,11 @@
 <h1 align="center" style="margin-top:70px;"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRqazN3ZHFxMDRhMXJ5azcxdjVwMmVvbnFsaXcwMmhkMWJvcGdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="45px"> skills <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRqazN3ZHFxMDRhMXJ5azcxdjVwMmVvbnFsaXcwMmhkMWJvcGdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="45px"></h1>
 <br/>
 
-<h2 align="center"> Languages 🌐 </h2>
+<h2 align="center"> Languages 🌐 And ⚒ Tools </h2>
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,rust,c,java" />
-   
-</div>
-
-
-
-<h2 align="center" style="margin-top:50;"> Frame Works 🖼 </h2>
-
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=actix" />
-   
-</div>
-
-
-
-<h2 align="center" style="margin-top:50;"> Cloud Hosting 🎛</h2>
-
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=render,github,aws,heroku,vercel,netlify," />
-   
-</div>
-
-
-
-
-
-<h2 align="center" style="margin-top:50;"> Tools ⚒</h2>
-
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,jquery,git" />
-   
-</div>
-
-
-
-<h2 align="center" style="margin-top:50;"> Resouserces 🔬</h2>
-
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=stackoverflow,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,rust,c,java,actix,github,vscode,linux,jquery,git" />
    
 </div>
 
