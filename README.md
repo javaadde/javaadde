@@ -39,7 +39,7 @@
 
 
 
-<h1 align="center" style="margin-top:70px;"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRqazN3ZHFxMDRhMXJ5azcxdjVwMmVvbnFsaXcwMmhkMWJvcGdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="45px"> skills <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRqazN3ZHFxMDRhMXJ5azcxdjVwMmVvbnFsaXcwMmhkMWJvcGdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="45px"></h1>
+<h1 align="center" style="margin-top:70px;"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRqazN3ZHFxMDRhMXJ5azcxdjVwMmVvbnFsaXcwMmhkMWJvcGdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="45px"> skills & Tools<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRqazN3ZHFxMDRhMXJ5azcxdjVwMmVvbnFsaXcwMmhkMWJvcGdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="45px"></h1>
 <br/>
 
 
