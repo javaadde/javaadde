@@ -54,4 +54,8 @@
 
 <h2 align="center" style="margin-top:90;"> Trophies 🏆</h2>
 
+<div align="center">
+
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=javaadde&theme=discord)
+
+</div>
