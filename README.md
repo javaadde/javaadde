@@ -1,9 +1,6 @@
-<img src="@javaadde.png" style="width:100%; border-radius:15px;"/>
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39E9FD&background=03030300&width=435&lines=Thaks+for+visiting)](https://git.io/typing-svg)
 
 
 <div align="center">	
@@ -58,3 +55,9 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=javaadde&theme=discord)
 
 </div>
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39E9FD&background=03030300&width=435&lines=Thaks+for+visiting)](https://git.io/typing-svg)
+
