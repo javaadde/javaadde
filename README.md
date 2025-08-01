@@ -16,7 +16,7 @@
 <a target="_blank" href="https://">
 <img src="https://img.shields.io/badge/Wattsapp-5fc353?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://javaadde.github.io/portfolio/">
+<a target="_blank" href="https://javaadde.github.io/portfolio/" style="background:violet">
 <img src="https://img.shields.io/badge/Portfolio-444?style=for-the-badge&logo=GoogleChrome&logoColor=green"></img>
 </a>
 </div>
