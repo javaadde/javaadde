@@ -13,7 +13,7 @@
 <a target="_blank" href="https://">
 <img src="https://img.shields.io/badge/Wattsapp-5fc353?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://javaadde.github.io/portfolio/">
+<a target="_blank" href="https://javaadde.vercel.app/">
 <img src="https://img.shields.io/badge/portfolio-925?style=for-the-badge&logo=GoogleChrome&logoColor=white"></img>
 </a>
 </div>
@@ -23,34 +23,6 @@
 
 ### I'm a passionate Full-Stack Developer and a lifelong learner who loves building creative, scalable, and user-friendly applications.
 
-## 💡 What I Do
-
-### 🔧 Craft clean and efficient backend systems using Node.js, Express, and MongoDB
-
-### 🖥️ Build responsive and modern frontends with React and TypeScript
-
-### 🧩 Focus on writing modular, well-structured, and type-safe code
-
-### 🚀 Enjoy exploring new technologies and improving my development workflow
-
-### 🧠 Currently Learning
-
-### TypeScript + Mongoose integration
-
-### Advanced REST API design patterns
-
-### Clean architecture and modular code organization
-
-# ⚙️ Tech Stack
-<div align="left">
-
-![Node](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-blue.svg)
-![React](https://img.shields.io/badge/React-18.0+-61DAFB.svg)
-![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green.svg)
-
-</div>
 
 <br>
 <div align=center>
