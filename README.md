@@ -1,7 +1,7 @@
 
 <h2> ⚡ Hey, I'm Javad! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
-<img align='right' src="/images/img.png" width="200" style="border-radius: 50%;">
+<img align='right' src="/images/image.png" width="200" style="border-radius: 50%;">
 
 **Full Stack Engineer** | Building scalable systems ⚡
 
