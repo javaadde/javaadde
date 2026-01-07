@@ -48,8 +48,8 @@ const javad = {
 
 | Building | Learning |
 |----------|----------|
-| Microservices | Rust & System Design |
-| Real-time APIs | Kubernetes | 
+| Microservices | TypeScript  |
+| Real-time APIs | System Design | 
 | Scalable Systems | Performance Optimization |
 
 ---
