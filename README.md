@@ -42,9 +42,7 @@ const javad = {
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
@@ -61,17 +59,11 @@ const javad = {
 
 ---
 
-<!-- 
-### 📊 Stats
+### 📊 Contribution Graph
 
-```
-Contributions:  1,200+ 🔥
-Repositories:   50+ 📚
-Stars Earned:   500+ ⭐
-Streak:         45 days 🎯
-``` -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=javaadde&theme=react&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14)](https://github.com/javaadde)
 
-<!-- --- -->
+---
 
 <!-- 
 ### 🎮 Featured Projects
