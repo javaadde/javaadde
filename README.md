@@ -59,9 +59,24 @@ const javad = {
 
 ---
 
-### 📊 Contribution Graph
+### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javaadde&theme=react&hide_border=true&border_radius=&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+
+| 🔥 **Contribution Streak** | 🏆 **Total Contributions** | ⭐ **Total Stars** |
+|:---:|:---:|:---:|
+| **Loading...** | **Loading...** | **Loading...** |
+
+| 📈 Metric | 🔢 Count |
+|:---|:---:|
+| 📦 **Public Repositories** | Loading... |
+| 👥 **Followers** | Loading... |
+
+#### 🛠️ Top Technologies
+![Loading](https://img.shields.io/badge/-Loading-333?style=flat-square)
+
+<sub>Next update: Midnight UTC • Auto-updating via GitHub Actions</sub>
+</div>
 
 ---
 
