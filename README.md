@@ -65,19 +65,6 @@ const javad = {
 
 ---
 
-<!-- 
-### 🎮 Featured Projects
-
-**🚀 High-Performance API** - 1M+ RPS handling
-[Node.js · PostgreSQL · Redis · Kubernetes]
-
-**⚡ Distributed System** - Microservices architecture
-[Go · Kafka · Docker · AWS]
-
-**💡 Real-Time Dashboard** - Live analytics platform
-[React · Next.js · WebSocket · D3.js]
-
---- -->
 
 ### 🤝 Let's Connect!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
