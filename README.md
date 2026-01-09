@@ -61,7 +61,7 @@ const javad = {
 
 ### 📊 Contribution Graph
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=javaadde&theme=react&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14)](https://github.com/javaadde)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javaadde&theme=react&hide_border=true&border_radius=&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
