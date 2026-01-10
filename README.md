@@ -59,24 +59,36 @@ const javad = {
 
 ---
 
-### 📊 GitHub Stats
+<!-- START_STATS -->
+### 📊 GitHub Real-time Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=javaadde&theme=tokyonight&no-bg=true&margin-w=15&compact=true" alt="Trophies" />
+</p>
 
 <div align="center">
-
-| 🔥 **Contribution Streak** | 🏆 **Total Contributions** | ⭐ **Total Stars** |
-|:---:|:---:|:---:|
-| **Loading...** | **Loading...** | **Loading...** |
-
-| 📈 Metric | 🔢 Count |
-|:---|:---:|
-| 📦 **Public Repositories** | Loading... |
-| 👥 **Followers** | Loading... |
-
-#### 🛠️ Top Technologies
-![Loading](https://img.shields.io/badge/-Loading-333?style=flat-square)
-
-<sub>Next update: Midnight UTC • Auto-updating via GitHub Actions</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=javaadde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Javad's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javaadde&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaadde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="160" />
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribution_Streak-Loading...-orange?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total_Contributions-Loading...-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total_Stars-Loading...-yellow?style=for-the-badge&logo=star&logoColor=black" />
+</p>
+
+<div align="center">
+  <sub>Next update: Midnight UTC • Auto-updating via GitHub Actions</sub>
+</div>
+<!-- END_STATS -->
 
 ---
 

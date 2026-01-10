@@ -104,33 +104,52 @@ def get_github_data(username, token):
     }
 
 def format_stats(stats):
-    langs = " ".join([f"![{l}](https://img.shields.io/badge/-{l}-333?style=flat-square)" for l in stats['top_languages']])
-    
-    return f"""### 📊 My GitHub Real-time Stats
+    return f"""<!-- START_STATS -->
+### 📊 GitHub Real-time Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=javaadde&theme=tokyonight&no-bg=true&margin-w=15&compact=true" alt="Trophies" />
+</p>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javaadde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Javad's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javaadde&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180" />
+</div>
 
-| 🔥 **Contribution Streak** | 🏆 **Total Contributions** | ⭐ **Total Stars** |
-|:---:|:---:|:---:|
-| **{stats['current_streak']} Days** | **{stats['total_contributions']}** | **{stats['total_stars']}** |
+<br/>
 
-| 📈 Metric | 🔢 Count |
-|:---|:---:|
-| 📦 **Public Repositories** | {stats['total_repos']} |
-| 👥 **Followers** | {stats['followers']} |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javaadde&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="160" />
+</div>
 
-#### 🛠️ Top Technologies
-{langs}
+<br/>
 
-<sub>Last automated update: {stats['last_updated']} • Built with ⚡ by Javad</sub>
-</div>"""
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribution_Streak-{stats['current_streak']}_Days-orange?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total_Contributions-{stats['total_contributions']}-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total_Stars-{stats['total_stars']}-yellow?style=for-the-badge&logo=star&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public_Repos-{stats['total_repos']}-green?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-{stats['followers']}-lightgrey?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+<div align="center">
+  <sub>Last automated update: {stats['last_updated']} • Built with ⚡ by Javad</sub>
+</div>
+<!-- END_STATS -->"""
 
 def update_readme(stats_content):
     with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Precise regex to replace the section
-    pattern = r'### 📊 GitHub Stats.*?(?=\n---|\Z)'
+    # Robust replacement using comment tags
+    pattern = r'<!-- START_STATS -->.*?<!-- END_STATS -->'
+    
+    # Fallback to the old title-based pattern if tags are not found yet
+    if '<!-- START_STATS -->' not in content:
+        pattern = r'### 📊 GitHub Stats.*?(?=\n---|\Z)'
     new_content = re.sub(pattern, stats_content, content, flags=re.DOTALL)
     
     with os.fdopen(os.open('README.md', os.O_WRONLY | os.O_TRUNC | os.O_CREAT, 0o644), 'w', encoding='utf-8') as f:
