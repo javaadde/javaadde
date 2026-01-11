@@ -63,18 +63,18 @@ const javad = {
 ### 📊 GitHub Real-time Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contribution_Streak-11_Days-orange?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total_Contributions-326-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contribution_Streak-13_Days-orange?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total_Contributions-342-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Total_Stars-11-yellow?style=for-the-badge&logo=star&logoColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public_Repos-29-green?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Followers-7-lightgrey?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Public_Repos-30-green?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-8-lightgrey?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <div align="center">
-  <sub>Last automated update: January 10, 2026 • Built with ⚡ by Javad</sub>
+  <sub>Last automated update: January 11, 2026 • Built with ⚡ by Javad</sub>
 </div>
 <!-- END_STATS -->
 
