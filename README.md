@@ -49,15 +49,6 @@ const javad = {
 
 ---
 
-### 🏆 What I Do
-
-| Building | Learning |
-|----------|----------|
-| Microservices | Redis  |
-| Real-time APIs | Docker | 
-| Scalable Systems | Kubernetes |
-
----
 
 <!-- START_STATS -->
 ### 📊 GitHub Real-time Stats
@@ -75,6 +66,15 @@ const javad = {
 
 ---
 
+### 🏆 What I Do
+
+| Building | Learning |
+|----------|----------|
+| Microservices | Redis  |
+| Real-time APIs | Docker | 
+| Scalable Systems | Kubernetes |
+
+---
 
 ### 🤝 Let's Connect!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
