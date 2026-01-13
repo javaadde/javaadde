@@ -63,8 +63,8 @@ const javad = {
 ### 📊 GitHub Real-time Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contribution_Streak-13_Days-orange?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total_Contributions-342-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contribution_Streak-14_Days-orange?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total_Contributions-345-blue?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Total_Stars-11-yellow?style=for-the-badge&logo=star&logoColor=black" />
 </p>
 
@@ -74,7 +74,7 @@ const javad = {
 </p>
 
 <div align="center">
-  <sub>Last automated update: January 12, 2026 • Built with ⚡ by Javad</sub>
+  <sub>Last automated update: January 13, 2026 • Built with ⚡ by Javad</sub>
 </div>
 <!-- END_STATS -->
 
