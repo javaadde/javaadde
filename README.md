@@ -18,7 +18,7 @@
 ```javascript
 const javad = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Python", "C", "Java", "HTML", "CSS"],
+  code: ["JavaScript", "TypeScript", "C", "Java", "HTML", "CSS"],
   frontend: ["React", "Next.js", "TailwindCSS"],
   backend: ["Node.js", "PostgreSQL", "Redis"],
   devops: ["Github Actions", "AWS"],
