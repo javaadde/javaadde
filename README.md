@@ -63,7 +63,7 @@ const javad = {
 
 <p align="center">
   <img src="images/contribution_graph.svg" width="100%" alt="Contribution Graph" />
-</p>c
+</p>
 
 <div align="center">
   <sub>Last automated update: January 13, 2026 • Built with 🤖 by Javad-bot</sub>
