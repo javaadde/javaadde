@@ -27,8 +27,8 @@ const javad = {
     member: "WeCode Tech Community"
   },
   education: "Student @ Devxtra Academy",
-  passion: "Building high-performance systems 🚀",
-  challenge: "#100DaysOfCode - focused on React and TypeScript"
+  passion: "Building high-performance systems ",
+  challenge: "#100DaysOfCode - focused on keeping github contribution streak"
 }
 ```
 
