@@ -1,9 +1,9 @@
 
-<h2> ⚡ Hey, I'm Javad! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<h2>  Hey, I'm Javad! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
 <img align='right' src="/images/image.png" width="200" style="border-radius: 50%;">
 
-**Full Stack Engineer** | Building scalable systems ⚡
+**Full Stack Engineer** | Building scalable systems 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/javaadde)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/javaadde)
@@ -13,7 +13,7 @@
 <!-- [![GitHub](https://img.shields.io/github/followers/javaadde?label=follow&style=social)](https://github.com/javaadde) -->
 ---
 
-### 🎯 Quick Bio
+###  Quick Bio
 
 ```javascript
 const javad = {
@@ -25,16 +25,17 @@ const javad = {
   languages: ["Malayalam", "English"],
   techCommunities: {
     member: "WeCode Tech Community"
+    member: ""
   },
   education: "Student @ Devxtra Academy",
   passion: "Building high-performance systems ",
-  challenge: "#100DaysOfCode - focused on keeping github contribution streak"
+  challenge: "#100DaysOfCode - focusing to keep 100Days of Streak in github"
 }
 ```
 
 ---
 
-### 💻 Stack & Tools
+###  Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
