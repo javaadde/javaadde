@@ -19,7 +19,7 @@
 const javad = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "C", "Java", "HTML", "CSS"],
-  frontend: ["React", "Next.js", "TailwindCSS"],
+  frontend: ["React", "Next.js", "TailwindCSS" ,"ShadCn"],
   backend: ["Node.js", "PostgreSQL", "Redis"],
   devops: ["Github Actions", "AWS"],
   languages: ["Malayalam", "English"],
@@ -29,7 +29,7 @@ const javad = {
   },
   education: "Student @ Devxtra Academy",
   passion: "Building high-performance systems ",
-  challenge: "#100DaysOfCode - focusing to keep 100Days of Streak in github"
+  challenge: "100 Days Github Streak Challenge"
 }
 ```
 
@@ -83,7 +83,7 @@ const javad = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200">
+      <td align="center" width="200" style="padding:5px;">
         <h3>🚀 Building</h3>
         Microservices<br/>
         Real-time APIs<br/>
