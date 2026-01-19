@@ -72,7 +72,7 @@ const javad = {
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public_Repos-29-green?style=flat-square&logo=git&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Followers-8-lightgrey?style=flat-square&logo=github&logoColor=white" />
 </p>
 
