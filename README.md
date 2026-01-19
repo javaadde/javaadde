@@ -71,11 +71,6 @@ const javad = {
 
 
 
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Followers-8-lightgrey?style=flat-square&logo=github&logoColor=white" />
-</p>
-
 <div align="center">
   <sub>Last automated update: January 19, 2026 • Built with ⚡ by Javad</sub>
 </div>
