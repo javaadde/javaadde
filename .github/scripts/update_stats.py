@@ -200,16 +200,6 @@ def format_stats(stats):
   <img src="images/contribution_graph.svg" width="100%" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contribution_Streak-{stats['current_streak']}_Days-orange?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total_Contributions-{stats['total_contributions']}-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total_Stars-{stats['total_stars']}-yellow?style=for-the-badge&logo=star&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public_Repos-{stats['total_repos']}-green?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Followers-{stats['followers']}-lightgrey?style=flat-square&logo=github&logoColor=white" />
-</p>
 
 <div align="center">
   <sub>Last automated update: {stats['last_updated']} • Built with ⚡ by Javad</sub>
