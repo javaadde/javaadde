@@ -69,17 +69,6 @@ const javad = {
   <img src="images/contribution_graph.svg" width="100%" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contribution_Streak-21_Days-orange?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total_Contributions-405-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total_Stars-11-yellow?style=for-the-badge&logo=star&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public_Repos-29-green?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Followers-8-lightgrey?style=flat-square&logo=github&logoColor=white" />
-</p>
-
 <div align="center">
   <sub>Last automated update: January 20, 2026 • Built with ⚡ by Javad</sub>
 </div>
