@@ -101,7 +101,6 @@ const javad = {
         System Design<br/>
         Cloud Arch
         <br/>
-            
       </td>
     </tr>
   </table>
