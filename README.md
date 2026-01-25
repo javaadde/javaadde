@@ -24,7 +24,7 @@ const javad = {
   devops: ["Github Actions", "AWS"],
   languages: ["Malayalam", "English"],
   techCommunities: {
-    member: "WeCode Tech Community"
+    member: "WeCode Tech Community",
   },
   education: "Student @ Devxtra Academy",
   passion: "Building high-performance systems ",
