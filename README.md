@@ -25,7 +25,6 @@ const javad = {
   languages: ["Malayalam", "English"],
   techCommunities: {
     member: "WeCode Tech Community"
-    member: ""
   },
   education: "Student @ Devxtra Academy",
   passion: "Building high-performance systems ",
