@@ -22,7 +22,6 @@ const javad = {
   frontend: ["React", "Next.js", "TailwindCSS" ,"ShadCn"],
   backend: ["Node.js", "PostgreSQL", "Redis"],
   devops: ["Github Actions", "AWS"],
-  tools:["n8n",""]
   languages: ["Malayalam", "English"],
   techCommunities: {
     member: "WeCode Tech Community",
