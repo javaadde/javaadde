@@ -20,7 +20,7 @@ const javad = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "C", "Java", "HTML", "CSS"],
   frontend: ["React", "Next.js", "TailwindCSS" ,"ShadCn"],
-  backend: ["Node.js", "PostgreSQL", "Redis"],
+  backend: ["Node.js", "MongoDb", "Express.js" ,"PostgreSQL", "Hono"],
   devops: ["Github Actions", "AWS"],
   languages: ["Malayalam", "English"],
   techCommunities: {
