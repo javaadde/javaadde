@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/javaadde)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/javaadde)
-[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white)](https://javade.xyz)
+[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white)](https://javade.in)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jawaadde@gmail.com)
 
 <!-- [![GitHub](https://img.shields.io/github/followers/javaadde?label=follow&style=social)](https://github.com/javaadde) -->
@@ -25,7 +25,8 @@ const javad = {
   languages: ["Malayalam", "English"],
   techCommunities: {
     member: "WeCode Tech Community",
-    member: "Codex Community"
+    member: "Codex Community",
+    member: "Tinkerhub"
   },
   education: "Student @ Devxtra Academy",
   passion: "Building high-performance systems ",
