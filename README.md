@@ -26,11 +26,11 @@ const javad = {
   techCommunities: {
     member: "WeCode Tech Community",
     member: "Codex Community",
-    member: "Tinkerhub"
+    member: "Tinkerhub Commutnity"
   },
-  education: "Student @ Devxtra Academy",
+  education: "12th @ GVHHS Nellikuth",
   passion: "Building high-performance systems ",
-  challenge: "100 Days Github Streak Challenge"
+  challenge: "30 Days Productive ${post the journy in x.com}"
 }
 ```
 
