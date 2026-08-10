@@ -79,36 +79,6 @@ const javad = {
 ---
 
 
-### 🏆 What I Do
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200" style="padding:5px;">
-        <h3>🚀 Building</h3>
-        Microservices<br/>
-        Real-time APIs<br/>
-        Scalable Systems<br/>
-      </td>
-      <td align="center" width="200">
-        <h3>🌱 Learning</h3>
-        Redis<br/>
-        Docker<br/>
-        Kubernetes
-      </td>
-      <td align="center" width="200">
-        <h3>💬 Ask Me About</h3>
-        React / Next.js<br/>
-        System Design<br/>
-        Cloud Arch
-        <br/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 🤝 Let's Connect!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
